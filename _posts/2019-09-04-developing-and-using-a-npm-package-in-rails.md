@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Developing a local NPM package and using it on Rails
-categories: programming javascript
+categories: programming
+tags: javascript npm development
 ---
 How do you install a NPM package from your local filesystem?
 
