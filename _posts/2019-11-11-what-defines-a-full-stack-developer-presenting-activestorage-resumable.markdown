@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  What defines a fullstack developer (Presenting ActiveStorage Resumable)?
+title:  What defines a full-stack developer (Presenting ActiveStorage Resumable)?
 date:   2019-11-11 22:25:00 -0300
 categories: programming
-tags: gcs google-cloud-storage resumable upload rails activestorage fullstack
+tags: gcs google-cloud-storage resumable upload rails activestorage full-stack
 ---
 The sadness on his eyes, for sure :)
 
-This post is not about definitions, internet is full of definitions about full stack developers, it's about how sad the
-life of a full stack developer is! If you don't want to read the blah blah blah, just see how easy it's to use
+This post is not about definitions, internet is full of definitions about full-stack developers, it's about how sad the
+life of a full-stack developer is! If you don't want to read the blah blah blah, just see how easy it's to use
 [ActiveStorage Resumable](https://github.com/fnix/activestorage-resumable)
 
 Let's talk about resumable uploads from browser?
