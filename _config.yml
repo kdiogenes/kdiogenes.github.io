@@ -17,8 +17,7 @@ title: Kadu Diógenes
 email: kadu@fnix.com.br
 description: >- # this means to ignore newlines until "baseurl:"
   A programmer daily. Write about software is the most incredible thing of the universe, right? No, it just helps me
-  organize my ideas and keep working, probably you will note this from my writings. I'm also doing this to gain emapthy
-  and exchange experiences, so get in touch!
+  organize my ideas and keep working. I'm also doing this to gain empathy and exchange experiences, so get in touch!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kadu_diogenes
