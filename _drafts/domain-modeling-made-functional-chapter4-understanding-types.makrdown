@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Domain Modeling Made Functional - Chapter 4 - Understanding Types"
+date:   2019-08-18 12:36:57 -0300
+categories: elixir ddd
+---
+My first contact with functional programming was with lisp, a couple of years ago, maybe this explain why I take some
+much time to look to this paradigm again. Elixir got my attention due its modern syntax, tooling, good documentation and
+a very receptive community. I finally get the feeling people talk about how functional programming changes your way of
+thinking.
+
+Another topic that always caught my attention is Domain-Drive Development (DDD), but I never grasped it. I was skeptic
+to buy it in the first moment, nothing a coupon couldn't help :)
+
+I'm starting with Chapter 4, because this is the first chapter that deals with code. The first 3 are the best
+introduction I have seen to DDD, it's very pragmatic and not too conceptually dense.
+
+If you already take a look at this book, it's written with F# in mind, so why this post is about elixir?
+
+To keep learning functional programming I decided to rewrite the book code in elixir.
