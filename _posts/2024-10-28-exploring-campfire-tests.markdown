@@ -1,6 +1,6 @@
 ---
 title: Exploring Campfire Tests
-date: 2024-10-28
+date: 2024-10-28 11:15:00 -0300
 category: [rails, tests]
 tags: [rails, tests, minitest]
 ---
@@ -196,7 +196,7 @@ vscode ➜ /workspaces/campfire $ bin/rails stats
   Code LOC: 10402     Test LOC: 1963     Code to Test Ratio: 1:0.2
 ```
 
-I also installed the [simplecov](https://github.com/simplecov-ruby/simplecov) gem. For the tests the coverage is of 95.94% and for the system test it's of 78.3%. Pretty good. I save the report for the [tests](/assets/pages/2024/campfire_coverage/tests/#_AllFiles) and the [system tests](/assets/pages/2024/campfire_coverage/system_tests/#_AllFiles) if you want to take a look.
+I also installed the [simplecov](https://github.com/simplecov-ruby/simplecov) gem. For the tests the coverage is of 95.94% and for the system test it's of 78.3%. Pretty good. I save the report for the [tests](/assets/pages/2024/campfire_coverage/tests/index.html) and the [system tests](/assets/pages/2024/campfire_coverage/system_tests/index.html) if you want to take a look.
 
 The codebase is pretty small, with around 10k lines of code and 2k lines of test code. It's interesting to note that views, stylesheets and JavaScript are more than 75% of the codebase, and they have almost no tests. The majority of tests are for controllers and models, having almost the same number of lines of the actual code.
 
@@ -227,7 +227,7 @@ The last file on this folder is `unread_rooms_test.rb`. This file contains only 
 
 Although that isn't many tests, my perception is that they are exercising the most complex part of the system and also the most used part of the system. So, considering costs and benefits it appears to be OK (only these tests take 2 minutes to run). I'm a bit paranoid about important workflows, and one that I think I would have tested is the invitation feature to join chat rooms, but given the recent DHH writing on [System tests have failed](https://world.hey.com/dhh/system-tests-have-failed-d90af718), it is understandable that there is no more system testing.
 
-It's also important to note that only these tests covers more than [75% of the application logic](/assets/pages/2024/campfire_coverage/system_tests/#_AllFiles). The other tests cover more than 95% of the application logic, so for sure the invitation logic is covered, but it's almost backend logic. Anyway, many things happen while a system is being implemented, and I don't want to be overly speculative because in the projects I participated in, there were always parts of the system that we knew could be better, but we decided to ignore to focus on things we considered more importantly.
+It's also important to note that only these tests covers more than [75% of the application logic](/assets/pages/2024/campfire_coverage/system_tests/index.html). The other tests cover more than 95% of the application logic, so for sure the invitation logic is covered, but it's almost backend logic. Anyway, many things happen while a system is being implemented, and I don't want to be overly speculative because in the projects I participated in, there were always parts of the system that we knew could be better, but we decided to ignore to focus on things we considered more importantly.
 
 ### Controller Tests
 
