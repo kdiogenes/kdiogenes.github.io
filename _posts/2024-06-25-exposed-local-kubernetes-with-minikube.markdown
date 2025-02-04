@@ -1,8 +1,8 @@
 ---
 title: Exposing a local Kubernetes cluster with Minikube
 date: 2024-06-25
-category: kubernetes
-tags: [kubernetes, minikube, ingress, dns, networking]
+categories: [DevOps, Kubernetes]
+tags: [Kubernetes, Minikube, Ingress, DNS, Networking, VirtualBox]
 ---
 
 I'm far from being a Kubernetes expert, but I'm dedicated to learning more about it, and for me, the best way to learn is by doing. It's easy to get a local Kubernetes cluster up and running, there are many tools available to help you with that, and although I'm using [Minikube](https://minikube.sigs.k8s.io/docs/) in this post, most of the content here can be applied to other tools.

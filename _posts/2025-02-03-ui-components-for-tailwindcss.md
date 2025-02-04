@@ -1,8 +1,8 @@
 ---
 title: UI Components for TailwindCSS
 date: 2025-02-03 20:10:00 -0300
-category: [frontend]
-tags: [tailwindcss, rails, hotwire]
+categories: [Frontend, UI Components]
+tags: [TailwindCSS, Rails, Hotwire, React, Vue, JavaScript]
 ---
 
 Recently I released a project called [WaveCaption](https://wavecaption.com) that uses [TailwindUI](https://tailwindui.com). It was a simple project, so I didn't use React or Vue, just Rails with Hotwire. It worked well, but I get a bit annoyed about having to write JS to handle dropdowns, drawers, and other UI components.

@@ -1,8 +1,8 @@
 ---
 title: Configuring TailwindCSS Prettier Plugin for ERB Files in VS Code
 date: 2024-11-21 11:10:00 -0300
-category: [tailwindcss, rails, vscode]
-tags: [tailwindcss, rails, prettier, erb, vscode]
+categories: [Frontend, Tools]
+tags: [TailwindCSS, Prettier, ERB, VSCode, Configuration]
 ---
 
 Sometime ago I configured the [TailwindCSS](https://tailwindcss.com/) plugin to work with [Prettier](https://prettier.io/). I think I followed this tutorial: https://fwuensche.medium.com/how-to-auto-format-erb-files-on-vscode-c82a03565d22, but I'm not paying Medium anymore, so I don't know for sure.

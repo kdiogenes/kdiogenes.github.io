@@ -1,8 +1,8 @@
 ---
 title: Exploring Campfire Tests
 date: 2024-10-28 11:15:00 -0300
-category: [rails, tests]
-tags: [rails, tests, minitest]
+categories: [Software Development, Testing]
+tags: [Campfire, Test Suite, Code Review, Learning]
 ---
 
 I was always curious to see real [37signals](https://37signals.com/) code. When they released their first [ONCE](https://once.com/) product, [Campfire](https://once.com/campfire), I was tempted to buy it but I was not willing to spend US$ 299,00, the release price, and now it's US$ 399,00. For me, it was too much money.

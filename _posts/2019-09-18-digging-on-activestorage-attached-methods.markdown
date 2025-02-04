@@ -2,8 +2,8 @@
 layout: post
 title:  Digging on ActiveStorage attached methods
 date:   2019-09-18 13:23:00 -0300
-categories: programming
-tags: ruby rails metaprogramming activestorage
+categories: [Backend, Frameworks]
+tags: [Rails, ActiveStorage, Metaprogramming]
 ---
 I read [Metaprogramming Ruby 2](https://pragprog.com/book/ppmetr2/metaprogramming-ruby-2) a long time ago, but I
 remember to read it more for the challenge than for the fun. The explanation about the Ruby object model is fantastic,

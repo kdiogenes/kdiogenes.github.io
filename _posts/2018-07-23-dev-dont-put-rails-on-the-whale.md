@@ -1,7 +1,8 @@
 ---
 title: Dev, don't put Rails on the whale
 date: 2018-07-23
-categories: rails docker
+categories: [Backend, DevOps]
+tags: [Rails, Docker, Development Environment, PostgreSQL, Redis, ElasticSearch]
 ---
 
 ![Rails on Docker](/assets/images/2018-07/rails-on-docker.webp)

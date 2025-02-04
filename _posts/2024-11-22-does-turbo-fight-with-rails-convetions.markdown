@@ -1,8 +1,8 @@
 ---
 title: Does Turbo Fight with Rails Conventions?
 date: 2024-11-22 16:50:00 -0300
-category: [rails, turbo]
-tags: [rails, turbo, hotwired]
+categories: [Backend, Frameworks]
+tags: [Rails, Turbo, Conventions, Hotwired]
 ---
 
 Let's say I have a `transcriptions/index.html.erb` with the following code:

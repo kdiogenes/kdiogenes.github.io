@@ -2,8 +2,8 @@
 layout: post
 title:  "Yet another Rails admin?"
 date:   2019-11-17 22:02:00 -0300
-categories: rails
-tags: admin metaprogramming
+categories: [Backend, Frameworks]
+tags: [Rails, Admin, Metaprogramming]
 ---
 No, only a kadim!
 

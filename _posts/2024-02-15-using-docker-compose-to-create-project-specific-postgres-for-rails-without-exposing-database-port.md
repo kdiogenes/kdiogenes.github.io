@@ -2,7 +2,8 @@
 layout: post
 title:  "Using docker-compose to create project-specific PostgreSQL for Rails without exposing database port"
 date:   2024-02-15
-categories: rails postgres docker-compose
+categories: [Backend, DevOps]
+tags: [Docker, Docker-Compose, PostgreSQL, Rails, Database]
 ---
 
 When working with Rails applications, it's common to use PostgreSQL as the database. While it's easy to set up a PostgreSQL server on your local machine, it can be a bit cumbersome to manage different versions of PostgreSQL for different projects. Additionally, you might not want to expose the database port so you can be able to run multiple project databases without having to deal with ports.

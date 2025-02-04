@@ -1,8 +1,8 @@
 ---
 title: Creating a Rails project using Dev Containers
 date: 2024-02-19
-category: rails
-tags: [rails, docker, devcontainers]
+categories: [Backend, DevOps]
+tags: [Rails, Docker, Dev Containers, PostgreSQL, Development Environment, VSCode]
 ---
 
 A long time ago, I wrote a post about not using Docker to run your Rails application: <https://kdiogenes.github.io/posts/dev-dont-put-rails-on-the-whale/>. Following this approach I wrote a post recently about using a project-specific PostgreSQL without exposing ports: <https://kdiogenes.github.io/posts/using-docker-compose-to-create-project-specific-postgres-for-rails-without-exposing-database-port/>. After publishing it, I remembered that some services don't use sockets for communication, ElasticSearch for example, so this solution wouldn't work for them. So you have two paths in this scenario:

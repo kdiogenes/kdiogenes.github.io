@@ -2,7 +2,8 @@
 layout: post
 title:  "Learning Precision and Recall with ChatGPT"
 date:   2023-07-02
-categories: ai machine-learning
+categories: [AI, Machine Learning]
+tags: [Precision, Recall, Text Classification, ChatGPT, Metrics, Model Performance]
 ---
 
 Hey there! Today, I'm going to share with you a super cool conversation I had with ChatGPT about precision and recall. These are key concepts in the world of machine learning and text classification, and I found that generating examples with ChatGPT was a fantastic way to understand them better. So, let's dive in!
